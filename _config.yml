@@ -1,7 +1,6 @@
 title: PARENT Alban
-description: Portfolio d'un étudiant en Réseaux et Télécommunications
+description: Portfolio RT
 style: dark
-# Menu du site (les pages qui s'afficheront en haut)
 header_pages:
   - index.md
 
