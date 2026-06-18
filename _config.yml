@@ -1,16 +1,16 @@
-# Example Site settings
+# Configuration du Portfolio de Alban
+title: "PARENT Alban"
+description: "Mon Portfolio étudiant en BUT Réseaux & Télécommunications"
 
-#header_pages:
-#  - index.md
-#  - about.md
+# Menu du site (les pages qui s'afficheront en haut)
+header_pages:
+  - index.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+# Style du terminal : dark (par défaut), light, ou hacker (vert rétro)
+style: dark
 
 plugins:
   - jekyll-seo-tag
-
-# Theme options
- style: dark # dark (default) or light or hacker
  listen_for_clients_preferred_style: true # true or false (default)
 
 # Fonts
