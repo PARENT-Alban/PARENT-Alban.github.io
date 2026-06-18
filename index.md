@@ -1,7 +1,7 @@
 ---
-title: /
+title: Portfolio PARENT Alban
 layout: home
-permalink: /
+permalink: Portfolio PARENT Alban
 ---
 
 # Bienvenue sur mon Portfolio !
