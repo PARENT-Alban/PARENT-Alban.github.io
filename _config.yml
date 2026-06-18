@@ -3,7 +3,7 @@ title: "PARENT Alban"
 description: "Portfolio d'un étudiant en Réseaux & Télécommunications"
 
 # Options du thème console
-style: dark
+style: hacker
 listen_for_clients_preferred_style: true
 
 # Plugins obligatoires pour le thème
