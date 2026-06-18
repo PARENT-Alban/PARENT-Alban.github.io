@@ -1,9 +1,19 @@
 ---
-title: /
+title: Portfolio PARENT Alban
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Bienvenue sur mon Portfolio !
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Je m'appelle **Alban Parent**, étudiant en **BUT Réseaux et Télécommunications** à l'IUT Nancy-Brabois.
+
+Ce terminal me sert de vitrine pour présenter mes projets et mes compétences techniques.
+
+## 🛠️ Mes Compétences
+* **Réseaux & Systèmes :** Administration Linux, Configuration réseaux, Virtualisation
+* **Développement :** Scripts (Python, Bash), Java, MATLAB
+* **Sécurité :** Backup (Stratégie 3-2-1), Passkeys
+
+---
+*Projets à venir : Liste de mes SAÉ et réalisations techniques.*
