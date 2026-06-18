@@ -1,13 +1,9 @@
-# Configuration du Portfolio de Alban
-title: "Portfolio PARENT Alban"
-description: "Mon Portfolio étudiant en BUT Réseaux & Télécommunications"
-
+title: PARENT Alban
+description: Portfolio d'un étudiant en Réseaux et Télécommunications
+style: dark
 # Menu du site (les pages qui s'afficheront en haut)
 header_pages:
   - index.md
-
-# Style du terminal : dark (par défaut), light, ou hacker (vert rétro)
-style: dark
 
 plugins:
   - jekyll-seo-tag
