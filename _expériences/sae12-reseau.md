@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /sae-12reseau.html
 title: "SAÉ 12 : Initialisation à l'architecture des réseaux"
 ---
 
