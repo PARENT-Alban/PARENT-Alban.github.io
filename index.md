@@ -3,8 +3,15 @@ title: Acceuil
 layout: home
 permalink: /
 ---
+<style>
+  header, nav, .menu, .nav-links, .navigation {
+    text-align: center !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+</style>
 
-<h1 style="text-align: center;">Bienvenue sur mon Portfolio !</h1>
+# Bienvenue sur mon Portfolio !
 
 # root@parent-alban:~# cat intro.txt
 
