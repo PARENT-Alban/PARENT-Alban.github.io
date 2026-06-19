@@ -17,7 +17,7 @@ Via ce portfolio je vais vous montrer les differentes expériences et connaissan
 
 ### 💻 Compétence 1 : Administrer les systèmes informatiques et les réseaux
 *Configuration d'infrastructures physiques, gestion de réseaux LAN/WAN et administration système.*
-* 🔍 **Preuve Réseau (SAÉ 12) :** [SAÉ 12 : S'initier aux réseaux informatiques (Savoir créer un schéma réseau)]({% post_url sae12-reseau%})
+* 🔍 **Preuve Réseau (SAÉ 12) :** [SAÉ 12 : S'initier aux réseaux informatiques (Savoir créer un schéma réseau)](/expériences/sae12-reseau.html)
 * 🐧 **Preuve Système (TP R202) :** [TP R202 : Installation et Administration Systèmes via serveur](/_expériences/tp-r202.html)
 
 ### 📡 Compétence 2 : Connecter les entreprises et les usagers
