@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "SAÉ 22 : Analyse et caractérisation de signaux physiques sous MATLAB"
+layout: page
+title: "SAÉ 22"
 ---
 
 # SAÉ 22 : Analyse et caractérisation de signaux physiques sous MATLAB
