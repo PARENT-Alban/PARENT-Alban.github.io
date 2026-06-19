@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SAÉ 12 : Initialisation à l'architecture des réseaux"
+title: "SAÉ 12"
 ---
 
 # SAÉ 12 : Conception et déploiement d'un réseau local
