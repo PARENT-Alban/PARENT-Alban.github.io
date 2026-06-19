@@ -11,13 +11,13 @@ permalink: /
 Je m'appelle **Alban Parent**, étudiant en **BUT Réseaux et Télécommunications** à l'IUT Nancy-Brabois.
 Originaire de Chambéry en Savoie je suis très interessé par l'installation, l'administration et la maintenance d'un réseau,et j'aime m'interesser aux nouvelles technologies ou aux technologie dont je n'ai pas encore connaissance.
 Via ce portfolio je vais vous montrer les differentes expériences et connaissances acquise durant mon parcours étudiant au sein du BUT Réseaux et télécommunications
----
+
 
 # root@parent-alban:~# ls --skills /competences
 
 ### 💻 Compétence 1 : Administrer les systèmes informatiques et les réseaux
 *Configuration d'infrastructures physiques, gestion de réseaux LAN/WAN et administration système.*
-* 🔍 **Preuve Réseau (SAÉ 12) :** [SAÉ 12 : S'initier aux réseaux informatiques (Savoir créer un schéma réseau)](/_expériences/sae12.html)
+* 🔍 **Preuve Réseau (SAÉ 12) :** [SAÉ 12 : S'initier aux réseaux informatiques (Savoir créer un schéma réseau)](/_expériences/sae12-reseau.html)
 * 🐧 **Preuve Système (TP R202) :** [TP R202 : Installation et Administration Systèmes via serveur](/_expériences/tp-r202.html)
 
 ### 📡 Compétence 2 : Connecter les entreprises et les usagers
