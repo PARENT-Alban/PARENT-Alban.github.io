@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "SAÉ 12 : Initialisation à l'architecture des réseaux"
-date: 2026-06-11
 ---
 
 # SAÉ 12 : Conception et déploiement d'un réseau local
