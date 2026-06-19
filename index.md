@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# Bienvenue sur mon Portfolio !
+<h1 style="text-align: center;">Bienvenue sur mon Portfolio !</h1>
 
 # root@parent-alban:~# cat intro.txt
 
