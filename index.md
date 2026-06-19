@@ -18,16 +18,16 @@ Via ce portfolio je vais vous montrer les differentes expériences et connaissan
 ### 💻 Compétence 1 : Administrer les systèmes informatiques et les réseaux
 *Configuration d'infrastructures physiques, gestion de réseaux LAN/WAN et administration système.*
 * 🔍 **Preuve Réseau (SAÉ 12) :** [SAÉ 12 : S'initier aux réseaux informatiques (Savoir créer un schéma réseau)](sae12-reseau.md)
-* 🐧 **Preuve Système (TP R202) :** [TP R202 : Installation et Administration Systèmes via serveur](/_expériences/tp-r202.html)
+* 🐧 **Preuve Système (TP R202) :** [TP R202 : Installation et Administration Systèmes via serveur](tp-r202.md)
 
 ### 📡 Compétence 2 : Connecter les entreprises et les usagers
 *Compréhension de la couche physique, propagation des signaux, traitement analogique/numérique et protocoles Internet.*
-* 📈 **Preuve Signal (SAÉ 22) :** [SAÉ 22 : Analyse et caractérisation de signaux physiques sous MATLAB](/_expériences/sae22-signal.html)
-* 🕵️ **Preuve Protocoles et installation (TP R201) :** [TP R201 : Analyse de flux de l'Internet avec Wireshark et mise en place des parametres d'un routeur](/_expériences/tp-r201.html)
+* 📈 **Preuve Signal (SAÉ 22) :** [SAÉ 22 : Analyse et caractérisation de signaux physiques sous MATLAB](sae22-signal.md)
+* 🕵️ **Preuve Protocoles et installation (TP R201) :** [TP R201 : Analyse de flux de l'Internet avec Wireshark et mise en place des parametres d'un routeur](tp-r201.md)
 
 ### 🛠️ Compétence 3 : Créer des outils et applications pour les R&T
 *Développement d'outils d'administration, structuration de bases de données et interfaces web dynamiques.*
-* 🌐 **Preuve Application (SAÉ 23) :** [SAÉ 23 : Mettre en place une solution informatique d'entreprise (Web & BDD)](/_expériences/sae23-web-bdd.html)
+* 🌐 **Preuve Application (SAÉ 23) :** [SAÉ 23 : Mettre en place une solution informatique d'entreprise (Web & BDD)](sae23-web-bdd.md)
 
 ---
 
