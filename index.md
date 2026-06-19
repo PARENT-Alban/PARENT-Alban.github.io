@@ -3,13 +3,6 @@ title: Acceuil
 layout: home
 permalink: /
 ---
-<style>
-  header, nav, .menu, .nav-links, .navigation {
-    text-align: center !important;
-    display: block !important;
-    margin: 0 auto !important;
-  }
-</style>
 
 # Bienvenue sur mon Portfolio !
 
