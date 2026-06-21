@@ -23,7 +23,7 @@ Via ce portfolio je vais vous montrer les differentes expériences et connaissan
 ### 📡 Compétence 2 : Connecter les entreprises et les usagers
 *Compréhension de la couche physique, propagation des signaux, traitement analogique/numérique et protocoles Internet.*
 * 📈 **Preuve Signal (SAÉ 22) :** [SAÉ 22 : Analyse et caractérisation de signaux physiques sous MATLAB](sae22-signal.md)
-* 🕵️ **Preuve Protocoles et installation (TP R201) :** [TP R201 :TP R201 : Mise en place des paramètres d'un routeur](tp-r201.md)
+* 🕵️ **Preuve Protocoles et installation (TP R201) :** [TP R201 : Mise en place des paramètres d'un routeur](tp-r201.md)
 
 ### 🛠️ Compétence 3 : Créer des outils et applications pour les R&T
 *Développement d'outils d'administration, structuration de bases de données et interfaces web dynamiques.*
